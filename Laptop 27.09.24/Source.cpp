@@ -11,7 +11,7 @@ int main() {
 
     Laptop laptop1("Asus ROG", "Silver", 1500, &cpu, &sdd, &ram, &videoCard);
     laptop1.Print();
-
+    
     cout << "\n";
 
     /*Laptop laptopCopy = laptop1;
